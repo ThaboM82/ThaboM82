@@ -21,6 +21,8 @@ I’m passionate about transforming complex datasets into actionable insights. M
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-FF8380?style=flat&logo=Excel&logoColor=green) )
+
 
 ---
 
