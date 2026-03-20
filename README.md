@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Percy Thabo Mathebula  
 
-![Banner](banner.png)  
+![Banner](images/banner.png)
+ 
 <img src="avatar.png" alt="Thabo Mathebula Avatar" width="150" style="border-radius:50%; border:2px solid #fff;"/>
 
 💡 **Data Scientist | Problem Solver | Lifelong Learner**  
