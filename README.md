@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thabo Mathebula  
+# 👋 Hi, I'm Percy Thabo Mathebula  
 
 ![Banner](banner.png)  
 <img src="avatar.png" alt="Thabo Mathebula Avatar" width="150" style="border-radius:50%; border:2px solid #fff;"/>
@@ -20,6 +20,47 @@ I’m passionate about transforming complex datasets into actionable insights. M
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+
+---
+
+## 🔍 Additional Expertise  
+
+- **Big Data & Cloud:** AWS, Azure, GCP, Spark, Hadoop  
+- **Data Engineering:** ETL pipelines, Airflow, Snowflake, BigQuery  
+- **ML Specialties:** NLP, Computer Vision, Recommendation Systems, Time-Series Forecasting  
+- **MLOps & Deployment:** Docker, Kubernetes, CI/CD, FastAPI, Flask, **Streamlit**  
+- **Advanced Analytics:** A/B Testing, Bayesian Statistics, Optimization & Simulation  
+- **Collaboration:** Git, GitHub, Agile/Scrum methodologies  
+
+---
+
+## 🧩 What I'm Currently Working On  
+
+- Building an **interactive Streamlit app** to deploy ML models for customer churn prediction  
+- Developing a **time-series forecasting pipeline** for retail sales data  
+- Creating a **Power BI dashboard** to monitor operational KPIs in real-time  
+
+---
+
+## 📚 What I'm Currently Learning  
+
+- **Afrikaans language skills** to expand workplace communication  
+- **MLOps best practices** for scalable model deployment  
+- **Cloud data engineering** with AWS and GCP  
+- **Advanced NLP techniques** for text classification and sentiment analysis  
+
+---
+
+## 🎯 Hobbies & Interests  
+
+- 📖 Reading books on personal growth and technology  
+- 🎵 Listening to music and exploring new genres  
+- 🎾 Playing and watching tennis
+- 🥾 Hiking and enjoying nature trails  
+- 🍳 Cooking and experimenting with new recipes  
+- 🌍 Traveling and discovering new cultures  
+- 🖥️ Exploring new tech tools and coding projects  
 
 ---
 
@@ -62,10 +103,12 @@ I’m passionate about transforming complex datasets into actionable insights. M
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabo-mathebula-098732190)  
+📧 **Email:** [thabo.math@gmail.com](mailto:thabo.math@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://your-portfolio-link.com)  
 
 ---
 
 ✨ *“Data is the new oil, but insight is the spark that drives change.”*  
+
+
