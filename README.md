@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Percy Thabo Mathebula  
 
 ![Banner](images/banner.png)
- 
-<img src="avatar.png" alt="Thabo Mathebula Avatar" width="150" style="border-radius:50%; border:2px solid #fff;"/>
+
+<img src="images/avatar.png" alt="Thabo Mathebula Avatar" width="150" style="border-radius:50%; border:2px solid #fff;"/>
+
 
 💡 **Data Scientist | Problem Solver | Lifelong Learner**  
 
@@ -114,4 +115,7 @@ I’m passionate about transforming complex datasets into actionable insights. M
 
 ✨ *“Data is the new oil, but insight is the spark that drives change.”*  
 
+README.md
+images/banner.png
+images/avatar.png
 
