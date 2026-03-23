@@ -2,7 +2,6 @@
 
 ![Banner](images/datascientist.jpeg)
 
-<--img src="images/datascientist.jpeg" alt="Thabo Mathebula Avatar" width="120" style="border-radius:50%; border:2px solid #fff;"/-->
 
 ---
 
